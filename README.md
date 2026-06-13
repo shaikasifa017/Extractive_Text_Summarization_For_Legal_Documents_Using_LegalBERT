@@ -1,0 +1,2 @@
+# Extractive_Text_Summarization_For_Legal_Documents_Using_LegalBERT
+Developed an extractive legal document summarization system using LegalBERT embeddings and Knapsack Optimization for sentence selection. Applied legal structure-aware filtering to improve relevance and reduce redundancy. Evaluated unsupervised models using Kendall’s Tau, Spearman correlation, and Top-K metrics, and supervised models using ROUGE.
